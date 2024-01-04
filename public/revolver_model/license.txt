@@ -1,0 +1,11 @@
+Model Information:
+* title:	Revolver "ORKOSTRIL"
+* source:	https://sketchfab.com/3d-models/revolver-orkostril-0e98acb2fa9c480ab6b785c57353ac87
+* author:	web.check102 (https://sketchfab.com/web.check102)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Revolver "ORKOSTRIL"" (https://sketchfab.com/3d-models/revolver-orkostril-0e98acb2fa9c480ab6b785c57353ac87) by web.check102 (https://sketchfab.com/web.check102) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
