@@ -19,10 +19,11 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
+    
     jobit,
     tripguide,
     threejs,
+    pravah
   } from "../assets";
   
   export const navLinks = [
@@ -198,12 +199,12 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Pravah 2024",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "We as a team of 5 students created the website for our College Fest PRAVAH",
       tags: [
         {
-          name: "react",
+          name:"JavaScript",
           color: "blue-text-gradient",
         },
         {
@@ -215,8 +216,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: pravah,
+      source_code_link: "https://github.com/jashan-bhayana/Pravah2k24/tree/main",
     },
     {
       name: "Job IT",
